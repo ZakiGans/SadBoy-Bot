@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	real = https://maslent Yt
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	remote = origin
+	merge = refs/heads/main
